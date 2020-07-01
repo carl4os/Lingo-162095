@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="af" xml:lang="af" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" flattenSnippets="false" SelectedTarget="" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="d4eb1d80-aec2-4511-bf08-a1addc89c703">
+    <ProjectFile Source="Target/Generic.flprj" Target="Target/Generic.flprj" />
+</LingoProject>
